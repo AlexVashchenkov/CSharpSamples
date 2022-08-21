@@ -1,0 +1,15 @@
+C:\Users\alexv\VStudio Projects\Task044_Fibonacci\obj\Debug\net6.0\Task044_Fibonacci.csproj.AssemblyReference.cache
+C:\Users\alexv\VStudio Projects\Task044_Fibonacci\obj\Debug\net6.0\Task044_Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexv\VStudio Projects\Task044_Fibonacci\obj\Debug\net6.0\Task044_Fibonacci.AssemblyInfoInputs.cache
+C:\Users\alexv\VStudio Projects\Task044_Fibonacci\obj\Debug\net6.0\Task044_Fibonacci.AssemblyInfo.cs
+C:\Users\alexv\VStudio Projects\Task044_Fibonacci\obj\Debug\net6.0\Task044_Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\alexv\VStudio Projects\Task044_Fibonacci\bin\Debug\net6.0\Task044_Fibonacci.exe
+C:\Users\alexv\VStudio Projects\Task044_Fibonacci\bin\Debug\net6.0\Task044_Fibonacci.deps.json
+C:\Users\alexv\VStudio Projects\Task044_Fibonacci\bin\Debug\net6.0\Task044_Fibonacci.runtimeconfig.json
+C:\Users\alexv\VStudio Projects\Task044_Fibonacci\bin\Debug\net6.0\Task044_Fibonacci.dll
+C:\Users\alexv\VStudio Projects\Task044_Fibonacci\bin\Debug\net6.0\Task044_Fibonacci.pdb
+C:\Users\alexv\VStudio Projects\Task044_Fibonacci\obj\Debug\net6.0\Task044_Fibonacci.dll
+C:\Users\alexv\VStudio Projects\Task044_Fibonacci\obj\Debug\net6.0\refint\Task044_Fibonacci.dll
+C:\Users\alexv\VStudio Projects\Task044_Fibonacci\obj\Debug\net6.0\Task044_Fibonacci.pdb
+C:\Users\alexv\VStudio Projects\Task044_Fibonacci\obj\Debug\net6.0\Task044_Fibonacci.genruntimeconfig.cache
+C:\Users\alexv\VStudio Projects\Task044_Fibonacci\obj\Debug\net6.0\ref\Task044_Fibonacci.dll
