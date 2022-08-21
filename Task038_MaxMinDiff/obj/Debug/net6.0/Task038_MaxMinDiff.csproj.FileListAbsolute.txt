@@ -1,0 +1,15 @@
+C:\Users\alexv\VStudio Projects\Task038_MaxMinDiff\bin\Debug\net6.0\Task038_MaxMinDiff.exe
+C:\Users\alexv\VStudio Projects\Task038_MaxMinDiff\bin\Debug\net6.0\Task038_MaxMinDiff.deps.json
+C:\Users\alexv\VStudio Projects\Task038_MaxMinDiff\bin\Debug\net6.0\Task038_MaxMinDiff.runtimeconfig.json
+C:\Users\alexv\VStudio Projects\Task038_MaxMinDiff\bin\Debug\net6.0\Task038_MaxMinDiff.dll
+C:\Users\alexv\VStudio Projects\Task038_MaxMinDiff\bin\Debug\net6.0\Task038_MaxMinDiff.pdb
+C:\Users\alexv\VStudio Projects\Task038_MaxMinDiff\obj\Debug\net6.0\Task038_MaxMinDiff.csproj.AssemblyReference.cache
+C:\Users\alexv\VStudio Projects\Task038_MaxMinDiff\obj\Debug\net6.0\Task038_MaxMinDiff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexv\VStudio Projects\Task038_MaxMinDiff\obj\Debug\net6.0\Task038_MaxMinDiff.AssemblyInfoInputs.cache
+C:\Users\alexv\VStudio Projects\Task038_MaxMinDiff\obj\Debug\net6.0\Task038_MaxMinDiff.AssemblyInfo.cs
+C:\Users\alexv\VStudio Projects\Task038_MaxMinDiff\obj\Debug\net6.0\Task038_MaxMinDiff.csproj.CoreCompileInputs.cache
+C:\Users\alexv\VStudio Projects\Task038_MaxMinDiff\obj\Debug\net6.0\Task038_MaxMinDiff.dll
+C:\Users\alexv\VStudio Projects\Task038_MaxMinDiff\obj\Debug\net6.0\refint\Task038_MaxMinDiff.dll
+C:\Users\alexv\VStudio Projects\Task038_MaxMinDiff\obj\Debug\net6.0\Task038_MaxMinDiff.pdb
+C:\Users\alexv\VStudio Projects\Task038_MaxMinDiff\obj\Debug\net6.0\Task038_MaxMinDiff.genruntimeconfig.cache
+C:\Users\alexv\VStudio Projects\Task038_MaxMinDiff\obj\Debug\net6.0\ref\Task038_MaxMinDiff.dll

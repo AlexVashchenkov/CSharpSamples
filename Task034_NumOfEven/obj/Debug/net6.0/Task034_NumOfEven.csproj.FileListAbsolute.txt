@@ -1,0 +1,15 @@
+C:\Users\alexv\VStudio Projects\Task034_NumOfEven\obj\Debug\net6.0\Task034_NumOfEven.csproj.AssemblyReference.cache
+C:\Users\alexv\VStudio Projects\Task034_NumOfEven\obj\Debug\net6.0\Task034_NumOfEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexv\VStudio Projects\Task034_NumOfEven\obj\Debug\net6.0\Task034_NumOfEven.AssemblyInfoInputs.cache
+C:\Users\alexv\VStudio Projects\Task034_NumOfEven\obj\Debug\net6.0\Task034_NumOfEven.AssemblyInfo.cs
+C:\Users\alexv\VStudio Projects\Task034_NumOfEven\obj\Debug\net6.0\Task034_NumOfEven.csproj.CoreCompileInputs.cache
+C:\Users\alexv\VStudio Projects\Task034_NumOfEven\bin\Debug\net6.0\Task034_NumOfEven.exe
+C:\Users\alexv\VStudio Projects\Task034_NumOfEven\bin\Debug\net6.0\Task034_NumOfEven.deps.json
+C:\Users\alexv\VStudio Projects\Task034_NumOfEven\bin\Debug\net6.0\Task034_NumOfEven.runtimeconfig.json
+C:\Users\alexv\VStudio Projects\Task034_NumOfEven\bin\Debug\net6.0\Task034_NumOfEven.dll
+C:\Users\alexv\VStudio Projects\Task034_NumOfEven\bin\Debug\net6.0\Task034_NumOfEven.pdb
+C:\Users\alexv\VStudio Projects\Task034_NumOfEven\obj\Debug\net6.0\Task034_NumOfEven.dll
+C:\Users\alexv\VStudio Projects\Task034_NumOfEven\obj\Debug\net6.0\refint\Task034_NumOfEven.dll
+C:\Users\alexv\VStudio Projects\Task034_NumOfEven\obj\Debug\net6.0\Task034_NumOfEven.pdb
+C:\Users\alexv\VStudio Projects\Task034_NumOfEven\obj\Debug\net6.0\Task034_NumOfEven.genruntimeconfig.cache
+C:\Users\alexv\VStudio Projects\Task034_NumOfEven\obj\Debug\net6.0\ref\Task034_NumOfEven.dll
