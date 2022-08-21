@@ -1,0 +1,15 @@
+C:\Users\alexv\VStudio Projects\Task040_Triangle\bin\Debug\net6.0\Task040_Triangle.exe
+C:\Users\alexv\VStudio Projects\Task040_Triangle\bin\Debug\net6.0\Task040_Triangle.deps.json
+C:\Users\alexv\VStudio Projects\Task040_Triangle\bin\Debug\net6.0\Task040_Triangle.runtimeconfig.json
+C:\Users\alexv\VStudio Projects\Task040_Triangle\bin\Debug\net6.0\Task040_Triangle.dll
+C:\Users\alexv\VStudio Projects\Task040_Triangle\bin\Debug\net6.0\Task040_Triangle.pdb
+C:\Users\alexv\VStudio Projects\Task040_Triangle\obj\Debug\net6.0\Task040_Triangle.csproj.AssemblyReference.cache
+C:\Users\alexv\VStudio Projects\Task040_Triangle\obj\Debug\net6.0\Task040_Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexv\VStudio Projects\Task040_Triangle\obj\Debug\net6.0\Task040_Triangle.AssemblyInfoInputs.cache
+C:\Users\alexv\VStudio Projects\Task040_Triangle\obj\Debug\net6.0\Task040_Triangle.AssemblyInfo.cs
+C:\Users\alexv\VStudio Projects\Task040_Triangle\obj\Debug\net6.0\Task040_Triangle.csproj.CoreCompileInputs.cache
+C:\Users\alexv\VStudio Projects\Task040_Triangle\obj\Debug\net6.0\Task040_Triangle.dll
+C:\Users\alexv\VStudio Projects\Task040_Triangle\obj\Debug\net6.0\refint\Task040_Triangle.dll
+C:\Users\alexv\VStudio Projects\Task040_Triangle\obj\Debug\net6.0\Task040_Triangle.pdb
+C:\Users\alexv\VStudio Projects\Task040_Triangle\obj\Debug\net6.0\Task040_Triangle.genruntimeconfig.cache
+C:\Users\alexv\VStudio Projects\Task040_Triangle\obj\Debug\net6.0\ref\Task040_Triangle.dll

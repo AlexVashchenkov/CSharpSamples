@@ -1,0 +1,15 @@
+C:\Users\alexv\VStudio Projects\Task039_ArrayReverse\bin\Debug\net6.0\Task039_ArrayReverse.exe
+C:\Users\alexv\VStudio Projects\Task039_ArrayReverse\bin\Debug\net6.0\Task039_ArrayReverse.deps.json
+C:\Users\alexv\VStudio Projects\Task039_ArrayReverse\bin\Debug\net6.0\Task039_ArrayReverse.runtimeconfig.json
+C:\Users\alexv\VStudio Projects\Task039_ArrayReverse\bin\Debug\net6.0\Task039_ArrayReverse.dll
+C:\Users\alexv\VStudio Projects\Task039_ArrayReverse\bin\Debug\net6.0\Task039_ArrayReverse.pdb
+C:\Users\alexv\VStudio Projects\Task039_ArrayReverse\obj\Debug\net6.0\Task039_ArrayReverse.csproj.AssemblyReference.cache
+C:\Users\alexv\VStudio Projects\Task039_ArrayReverse\obj\Debug\net6.0\Task039_ArrayReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexv\VStudio Projects\Task039_ArrayReverse\obj\Debug\net6.0\Task039_ArrayReverse.AssemblyInfoInputs.cache
+C:\Users\alexv\VStudio Projects\Task039_ArrayReverse\obj\Debug\net6.0\Task039_ArrayReverse.AssemblyInfo.cs
+C:\Users\alexv\VStudio Projects\Task039_ArrayReverse\obj\Debug\net6.0\Task039_ArrayReverse.csproj.CoreCompileInputs.cache
+C:\Users\alexv\VStudio Projects\Task039_ArrayReverse\obj\Debug\net6.0\Task039_ArrayReverse.dll
+C:\Users\alexv\VStudio Projects\Task039_ArrayReverse\obj\Debug\net6.0\refint\Task039_ArrayReverse.dll
+C:\Users\alexv\VStudio Projects\Task039_ArrayReverse\obj\Debug\net6.0\Task039_ArrayReverse.pdb
+C:\Users\alexv\VStudio Projects\Task039_ArrayReverse\obj\Debug\net6.0\Task039_ArrayReverse.genruntimeconfig.cache
+C:\Users\alexv\VStudio Projects\Task039_ArrayReverse\obj\Debug\net6.0\ref\Task039_ArrayReverse.dll

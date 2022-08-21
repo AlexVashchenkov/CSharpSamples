@@ -1,0 +1,15 @@
+C:\Users\alexv\VStudio Projects\Task042_ToBinary\bin\Debug\net6.0\Task042_ToBinary.exe
+C:\Users\alexv\VStudio Projects\Task042_ToBinary\bin\Debug\net6.0\Task042_ToBinary.deps.json
+C:\Users\alexv\VStudio Projects\Task042_ToBinary\bin\Debug\net6.0\Task042_ToBinary.runtimeconfig.json
+C:\Users\alexv\VStudio Projects\Task042_ToBinary\bin\Debug\net6.0\Task042_ToBinary.dll
+C:\Users\alexv\VStudio Projects\Task042_ToBinary\bin\Debug\net6.0\Task042_ToBinary.pdb
+C:\Users\alexv\VStudio Projects\Task042_ToBinary\obj\Debug\net6.0\Task042_ToBinary.csproj.AssemblyReference.cache
+C:\Users\alexv\VStudio Projects\Task042_ToBinary\obj\Debug\net6.0\Task042_ToBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexv\VStudio Projects\Task042_ToBinary\obj\Debug\net6.0\Task042_ToBinary.AssemblyInfoInputs.cache
+C:\Users\alexv\VStudio Projects\Task042_ToBinary\obj\Debug\net6.0\Task042_ToBinary.AssemblyInfo.cs
+C:\Users\alexv\VStudio Projects\Task042_ToBinary\obj\Debug\net6.0\Task042_ToBinary.csproj.CoreCompileInputs.cache
+C:\Users\alexv\VStudio Projects\Task042_ToBinary\obj\Debug\net6.0\Task042_ToBinary.dll
+C:\Users\alexv\VStudio Projects\Task042_ToBinary\obj\Debug\net6.0\refint\Task042_ToBinary.dll
+C:\Users\alexv\VStudio Projects\Task042_ToBinary\obj\Debug\net6.0\Task042_ToBinary.pdb
+C:\Users\alexv\VStudio Projects\Task042_ToBinary\obj\Debug\net6.0\Task042_ToBinary.genruntimeconfig.cache
+C:\Users\alexv\VStudio Projects\Task042_ToBinary\obj\Debug\net6.0\ref\Task042_ToBinary.dll
