@@ -1,0 +1,15 @@
+C:\Users\alexv\VStudio Projects\Task063_1ToN\bin\Debug\net6.0\Task063_1ToN.exe
+C:\Users\alexv\VStudio Projects\Task063_1ToN\bin\Debug\net6.0\Task063_1ToN.deps.json
+C:\Users\alexv\VStudio Projects\Task063_1ToN\bin\Debug\net6.0\Task063_1ToN.runtimeconfig.json
+C:\Users\alexv\VStudio Projects\Task063_1ToN\bin\Debug\net6.0\Task063_1ToN.dll
+C:\Users\alexv\VStudio Projects\Task063_1ToN\bin\Debug\net6.0\Task063_1ToN.pdb
+C:\Users\alexv\VStudio Projects\Task063_1ToN\obj\Debug\net6.0\Task063_1ToN.csproj.AssemblyReference.cache
+C:\Users\alexv\VStudio Projects\Task063_1ToN\obj\Debug\net6.0\Task063_1ToN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexv\VStudio Projects\Task063_1ToN\obj\Debug\net6.0\Task063_1ToN.AssemblyInfoInputs.cache
+C:\Users\alexv\VStudio Projects\Task063_1ToN\obj\Debug\net6.0\Task063_1ToN.AssemblyInfo.cs
+C:\Users\alexv\VStudio Projects\Task063_1ToN\obj\Debug\net6.0\Task063_1ToN.csproj.CoreCompileInputs.cache
+C:\Users\alexv\VStudio Projects\Task063_1ToN\obj\Debug\net6.0\Task063_1ToN.dll
+C:\Users\alexv\VStudio Projects\Task063_1ToN\obj\Debug\net6.0\refint\Task063_1ToN.dll
+C:\Users\alexv\VStudio Projects\Task063_1ToN\obj\Debug\net6.0\Task063_1ToN.pdb
+C:\Users\alexv\VStudio Projects\Task063_1ToN\obj\Debug\net6.0\Task063_1ToN.genruntimeconfig.cache
+C:\Users\alexv\VStudio Projects\Task063_1ToN\obj\Debug\net6.0\ref\Task063_1ToN.dll

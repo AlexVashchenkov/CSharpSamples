@@ -1,0 +1,15 @@
+C:\Users\alexv\VStudio Projects\Task065_MToN\obj\Debug\net6.0\Task065_MToN.csproj.AssemblyReference.cache
+C:\Users\alexv\VStudio Projects\Task065_MToN\obj\Debug\net6.0\Task065_MToN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexv\VStudio Projects\Task065_MToN\obj\Debug\net6.0\Task065_MToN.AssemblyInfoInputs.cache
+C:\Users\alexv\VStudio Projects\Task065_MToN\obj\Debug\net6.0\Task065_MToN.AssemblyInfo.cs
+C:\Users\alexv\VStudio Projects\Task065_MToN\obj\Debug\net6.0\Task065_MToN.csproj.CoreCompileInputs.cache
+C:\Users\alexv\VStudio Projects\Task065_MToN\bin\Debug\net6.0\Task065_MToN.exe
+C:\Users\alexv\VStudio Projects\Task065_MToN\bin\Debug\net6.0\Task065_MToN.deps.json
+C:\Users\alexv\VStudio Projects\Task065_MToN\bin\Debug\net6.0\Task065_MToN.runtimeconfig.json
+C:\Users\alexv\VStudio Projects\Task065_MToN\bin\Debug\net6.0\Task065_MToN.dll
+C:\Users\alexv\VStudio Projects\Task065_MToN\bin\Debug\net6.0\Task065_MToN.pdb
+C:\Users\alexv\VStudio Projects\Task065_MToN\obj\Debug\net6.0\Task065_MToN.dll
+C:\Users\alexv\VStudio Projects\Task065_MToN\obj\Debug\net6.0\refint\Task065_MToN.dll
+C:\Users\alexv\VStudio Projects\Task065_MToN\obj\Debug\net6.0\Task065_MToN.pdb
+C:\Users\alexv\VStudio Projects\Task065_MToN\obj\Debug\net6.0\Task065_MToN.genruntimeconfig.cache
+C:\Users\alexv\VStudio Projects\Task065_MToN\obj\Debug\net6.0\ref\Task065_MToN.dll
