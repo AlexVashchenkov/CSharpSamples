@@ -1,0 +1,15 @@
+C:\Users\alexv\VStudio Projects\Task061_Pascal\bin\Debug\net6.0\Task061_Pascal.exe
+C:\Users\alexv\VStudio Projects\Task061_Pascal\bin\Debug\net6.0\Task061_Pascal.deps.json
+C:\Users\alexv\VStudio Projects\Task061_Pascal\bin\Debug\net6.0\Task061_Pascal.runtimeconfig.json
+C:\Users\alexv\VStudio Projects\Task061_Pascal\bin\Debug\net6.0\Task061_Pascal.dll
+C:\Users\alexv\VStudio Projects\Task061_Pascal\bin\Debug\net6.0\Task061_Pascal.pdb
+C:\Users\alexv\VStudio Projects\Task061_Pascal\obj\Debug\net6.0\Task061_Pascal.csproj.AssemblyReference.cache
+C:\Users\alexv\VStudio Projects\Task061_Pascal\obj\Debug\net6.0\Task061_Pascal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexv\VStudio Projects\Task061_Pascal\obj\Debug\net6.0\Task061_Pascal.AssemblyInfoInputs.cache
+C:\Users\alexv\VStudio Projects\Task061_Pascal\obj\Debug\net6.0\Task061_Pascal.AssemblyInfo.cs
+C:\Users\alexv\VStudio Projects\Task061_Pascal\obj\Debug\net6.0\Task061_Pascal.csproj.CoreCompileInputs.cache
+C:\Users\alexv\VStudio Projects\Task061_Pascal\obj\Debug\net6.0\Task061_Pascal.dll
+C:\Users\alexv\VStudio Projects\Task061_Pascal\obj\Debug\net6.0\refint\Task061_Pascal.dll
+C:\Users\alexv\VStudio Projects\Task061_Pascal\obj\Debug\net6.0\Task061_Pascal.pdb
+C:\Users\alexv\VStudio Projects\Task061_Pascal\obj\Debug\net6.0\Task061_Pascal.genruntimeconfig.cache
+C:\Users\alexv\VStudio Projects\Task061_Pascal\obj\Debug\net6.0\ref\Task061_Pascal.dll

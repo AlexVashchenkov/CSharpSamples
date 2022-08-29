@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task057_FreqArray/1.0.0": {
+        "runtime": {
+          "Task057_FreqArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task057_FreqArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

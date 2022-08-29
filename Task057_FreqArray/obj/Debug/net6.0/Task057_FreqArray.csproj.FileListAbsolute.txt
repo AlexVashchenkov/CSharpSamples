@@ -1,0 +1,15 @@
+C:\Users\alexv\VStudio Projects\Task057_FreqArray\obj\Debug\net6.0\Task057_FreqArray.csproj.AssemblyReference.cache
+C:\Users\alexv\VStudio Projects\Task057_FreqArray\obj\Debug\net6.0\Task057_FreqArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexv\VStudio Projects\Task057_FreqArray\obj\Debug\net6.0\Task057_FreqArray.AssemblyInfoInputs.cache
+C:\Users\alexv\VStudio Projects\Task057_FreqArray\obj\Debug\net6.0\Task057_FreqArray.AssemblyInfo.cs
+C:\Users\alexv\VStudio Projects\Task057_FreqArray\obj\Debug\net6.0\Task057_FreqArray.csproj.CoreCompileInputs.cache
+C:\Users\alexv\VStudio Projects\Task057_FreqArray\bin\Debug\net6.0\Task057_FreqArray.exe
+C:\Users\alexv\VStudio Projects\Task057_FreqArray\bin\Debug\net6.0\Task057_FreqArray.deps.json
+C:\Users\alexv\VStudio Projects\Task057_FreqArray\bin\Debug\net6.0\Task057_FreqArray.runtimeconfig.json
+C:\Users\alexv\VStudio Projects\Task057_FreqArray\bin\Debug\net6.0\Task057_FreqArray.dll
+C:\Users\alexv\VStudio Projects\Task057_FreqArray\bin\Debug\net6.0\Task057_FreqArray.pdb
+C:\Users\alexv\VStudio Projects\Task057_FreqArray\obj\Debug\net6.0\Task057_FreqArray.dll
+C:\Users\alexv\VStudio Projects\Task057_FreqArray\obj\Debug\net6.0\refint\Task057_FreqArray.dll
+C:\Users\alexv\VStudio Projects\Task057_FreqArray\obj\Debug\net6.0\Task057_FreqArray.pdb
+C:\Users\alexv\VStudio Projects\Task057_FreqArray\obj\Debug\net6.0\Task057_FreqArray.genruntimeconfig.cache
+C:\Users\alexv\VStudio Projects\Task057_FreqArray\obj\Debug\net6.0\ref\Task057_FreqArray.dll

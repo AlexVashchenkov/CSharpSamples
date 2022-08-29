@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task061_Pascal/1.0.0": {
+        "runtime": {
+          "Task061_Pascal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task061_Pascal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

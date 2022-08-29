@@ -1,0 +1,15 @@
+C:\Users\alexv\VStudio Projects\Task059_DeleteRowColumn\obj\Debug\net6.0\Task059_DeleteRowColumn.csproj.AssemblyReference.cache
+C:\Users\alexv\VStudio Projects\Task059_DeleteRowColumn\obj\Debug\net6.0\Task059_DeleteRowColumn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexv\VStudio Projects\Task059_DeleteRowColumn\obj\Debug\net6.0\Task059_DeleteRowColumn.AssemblyInfoInputs.cache
+C:\Users\alexv\VStudio Projects\Task059_DeleteRowColumn\obj\Debug\net6.0\Task059_DeleteRowColumn.AssemblyInfo.cs
+C:\Users\alexv\VStudio Projects\Task059_DeleteRowColumn\obj\Debug\net6.0\Task059_DeleteRowColumn.csproj.CoreCompileInputs.cache
+C:\Users\alexv\VStudio Projects\Task059_DeleteRowColumn\bin\Debug\net6.0\Task059_DeleteRowColumn.exe
+C:\Users\alexv\VStudio Projects\Task059_DeleteRowColumn\bin\Debug\net6.0\Task059_DeleteRowColumn.deps.json
+C:\Users\alexv\VStudio Projects\Task059_DeleteRowColumn\bin\Debug\net6.0\Task059_DeleteRowColumn.runtimeconfig.json
+C:\Users\alexv\VStudio Projects\Task059_DeleteRowColumn\bin\Debug\net6.0\Task059_DeleteRowColumn.dll
+C:\Users\alexv\VStudio Projects\Task059_DeleteRowColumn\bin\Debug\net6.0\Task059_DeleteRowColumn.pdb
+C:\Users\alexv\VStudio Projects\Task059_DeleteRowColumn\obj\Debug\net6.0\Task059_DeleteRowColumn.dll
+C:\Users\alexv\VStudio Projects\Task059_DeleteRowColumn\obj\Debug\net6.0\refint\Task059_DeleteRowColumn.dll
+C:\Users\alexv\VStudio Projects\Task059_DeleteRowColumn\obj\Debug\net6.0\Task059_DeleteRowColumn.pdb
+C:\Users\alexv\VStudio Projects\Task059_DeleteRowColumn\obj\Debug\net6.0\Task059_DeleteRowColumn.genruntimeconfig.cache
+C:\Users\alexv\VStudio Projects\Task059_DeleteRowColumn\obj\Debug\net6.0\ref\Task059_DeleteRowColumn.dll
