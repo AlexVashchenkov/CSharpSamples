@@ -1,0 +1,15 @@
+C:\Users\alexv\VStudio Projects\Task046_RandomMatrix\bin\Debug\net6.0\Task046_RandomMatrix.exe
+C:\Users\alexv\VStudio Projects\Task046_RandomMatrix\bin\Debug\net6.0\Task046_RandomMatrix.deps.json
+C:\Users\alexv\VStudio Projects\Task046_RandomMatrix\bin\Debug\net6.0\Task046_RandomMatrix.runtimeconfig.json
+C:\Users\alexv\VStudio Projects\Task046_RandomMatrix\bin\Debug\net6.0\Task046_RandomMatrix.dll
+C:\Users\alexv\VStudio Projects\Task046_RandomMatrix\bin\Debug\net6.0\Task046_RandomMatrix.pdb
+C:\Users\alexv\VStudio Projects\Task046_RandomMatrix\obj\Debug\net6.0\Task046_RandomMatrix.csproj.AssemblyReference.cache
+C:\Users\alexv\VStudio Projects\Task046_RandomMatrix\obj\Debug\net6.0\Task046_RandomMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexv\VStudio Projects\Task046_RandomMatrix\obj\Debug\net6.0\Task046_RandomMatrix.AssemblyInfoInputs.cache
+C:\Users\alexv\VStudio Projects\Task046_RandomMatrix\obj\Debug\net6.0\Task046_RandomMatrix.AssemblyInfo.cs
+C:\Users\alexv\VStudio Projects\Task046_RandomMatrix\obj\Debug\net6.0\Task046_RandomMatrix.csproj.CoreCompileInputs.cache
+C:\Users\alexv\VStudio Projects\Task046_RandomMatrix\obj\Debug\net6.0\Task046_RandomMatrix.dll
+C:\Users\alexv\VStudio Projects\Task046_RandomMatrix\obj\Debug\net6.0\refint\Task046_RandomMatrix.dll
+C:\Users\alexv\VStudio Projects\Task046_RandomMatrix\obj\Debug\net6.0\Task046_RandomMatrix.pdb
+C:\Users\alexv\VStudio Projects\Task046_RandomMatrix\obj\Debug\net6.0\Task046_RandomMatrix.genruntimeconfig.cache
+C:\Users\alexv\VStudio Projects\Task046_RandomMatrix\obj\Debug\net6.0\ref\Task046_RandomMatrix.dll

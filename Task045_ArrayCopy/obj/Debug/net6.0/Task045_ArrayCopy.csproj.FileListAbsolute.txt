@@ -1,0 +1,15 @@
+C:\Users\alexv\VStudio Projects\Task045_ArrayCopy\bin\Debug\net6.0\Task045_ArrayCopy.exe
+C:\Users\alexv\VStudio Projects\Task045_ArrayCopy\bin\Debug\net6.0\Task045_ArrayCopy.deps.json
+C:\Users\alexv\VStudio Projects\Task045_ArrayCopy\bin\Debug\net6.0\Task045_ArrayCopy.runtimeconfig.json
+C:\Users\alexv\VStudio Projects\Task045_ArrayCopy\bin\Debug\net6.0\Task045_ArrayCopy.dll
+C:\Users\alexv\VStudio Projects\Task045_ArrayCopy\bin\Debug\net6.0\Task045_ArrayCopy.pdb
+C:\Users\alexv\VStudio Projects\Task045_ArrayCopy\obj\Debug\net6.0\Task045_ArrayCopy.csproj.AssemblyReference.cache
+C:\Users\alexv\VStudio Projects\Task045_ArrayCopy\obj\Debug\net6.0\Task045_ArrayCopy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexv\VStudio Projects\Task045_ArrayCopy\obj\Debug\net6.0\Task045_ArrayCopy.AssemblyInfoInputs.cache
+C:\Users\alexv\VStudio Projects\Task045_ArrayCopy\obj\Debug\net6.0\Task045_ArrayCopy.AssemblyInfo.cs
+C:\Users\alexv\VStudio Projects\Task045_ArrayCopy\obj\Debug\net6.0\Task045_ArrayCopy.csproj.CoreCompileInputs.cache
+C:\Users\alexv\VStudio Projects\Task045_ArrayCopy\obj\Debug\net6.0\Task045_ArrayCopy.dll
+C:\Users\alexv\VStudio Projects\Task045_ArrayCopy\obj\Debug\net6.0\refint\Task045_ArrayCopy.dll
+C:\Users\alexv\VStudio Projects\Task045_ArrayCopy\obj\Debug\net6.0\Task045_ArrayCopy.pdb
+C:\Users\alexv\VStudio Projects\Task045_ArrayCopy\obj\Debug\net6.0\Task045_ArrayCopy.genruntimeconfig.cache
+C:\Users\alexv\VStudio Projects\Task045_ArrayCopy\obj\Debug\net6.0\ref\Task045_ArrayCopy.dll

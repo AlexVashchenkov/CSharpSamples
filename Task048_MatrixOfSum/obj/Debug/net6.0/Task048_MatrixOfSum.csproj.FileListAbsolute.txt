@@ -1,0 +1,15 @@
+C:\Users\alexv\VStudio Projects\Task048_MatrixOfSum\bin\Debug\net6.0\Task048_MatrixOfSum.exe
+C:\Users\alexv\VStudio Projects\Task048_MatrixOfSum\bin\Debug\net6.0\Task048_MatrixOfSum.deps.json
+C:\Users\alexv\VStudio Projects\Task048_MatrixOfSum\bin\Debug\net6.0\Task048_MatrixOfSum.runtimeconfig.json
+C:\Users\alexv\VStudio Projects\Task048_MatrixOfSum\bin\Debug\net6.0\Task048_MatrixOfSum.dll
+C:\Users\alexv\VStudio Projects\Task048_MatrixOfSum\bin\Debug\net6.0\Task048_MatrixOfSum.pdb
+C:\Users\alexv\VStudio Projects\Task048_MatrixOfSum\obj\Debug\net6.0\Task048_MatrixOfSum.csproj.AssemblyReference.cache
+C:\Users\alexv\VStudio Projects\Task048_MatrixOfSum\obj\Debug\net6.0\Task048_MatrixOfSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexv\VStudio Projects\Task048_MatrixOfSum\obj\Debug\net6.0\Task048_MatrixOfSum.AssemblyInfoInputs.cache
+C:\Users\alexv\VStudio Projects\Task048_MatrixOfSum\obj\Debug\net6.0\Task048_MatrixOfSum.AssemblyInfo.cs
+C:\Users\alexv\VStudio Projects\Task048_MatrixOfSum\obj\Debug\net6.0\Task048_MatrixOfSum.csproj.CoreCompileInputs.cache
+C:\Users\alexv\VStudio Projects\Task048_MatrixOfSum\obj\Debug\net6.0\Task048_MatrixOfSum.dll
+C:\Users\alexv\VStudio Projects\Task048_MatrixOfSum\obj\Debug\net6.0\refint\Task048_MatrixOfSum.dll
+C:\Users\alexv\VStudio Projects\Task048_MatrixOfSum\obj\Debug\net6.0\Task048_MatrixOfSum.pdb
+C:\Users\alexv\VStudio Projects\Task048_MatrixOfSum\obj\Debug\net6.0\Task048_MatrixOfSum.genruntimeconfig.cache
+C:\Users\alexv\VStudio Projects\Task048_MatrixOfSum\obj\Debug\net6.0\ref\Task048_MatrixOfSum.dll

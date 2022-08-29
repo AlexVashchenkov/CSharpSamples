@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task045_ArrayCopy/1.0.0": {
+        "runtime": {
+          "Task045_ArrayCopy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task045_ArrayCopy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task046_RandomMatrix/1.0.0": {
+        "runtime": {
+          "Task046_RandomMatrix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task046_RandomMatrix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
