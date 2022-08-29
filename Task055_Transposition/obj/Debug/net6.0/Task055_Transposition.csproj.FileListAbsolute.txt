@@ -1,0 +1,15 @@
+C:\Users\alexv\VStudio Projects\Task055_Transposition\bin\Debug\net6.0\Task055_Transposition.exe
+C:\Users\alexv\VStudio Projects\Task055_Transposition\bin\Debug\net6.0\Task055_Transposition.deps.json
+C:\Users\alexv\VStudio Projects\Task055_Transposition\bin\Debug\net6.0\Task055_Transposition.runtimeconfig.json
+C:\Users\alexv\VStudio Projects\Task055_Transposition\bin\Debug\net6.0\Task055_Transposition.dll
+C:\Users\alexv\VStudio Projects\Task055_Transposition\bin\Debug\net6.0\Task055_Transposition.pdb
+C:\Users\alexv\VStudio Projects\Task055_Transposition\obj\Debug\net6.0\Task055_Transposition.csproj.AssemblyReference.cache
+C:\Users\alexv\VStudio Projects\Task055_Transposition\obj\Debug\net6.0\Task055_Transposition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexv\VStudio Projects\Task055_Transposition\obj\Debug\net6.0\Task055_Transposition.AssemblyInfoInputs.cache
+C:\Users\alexv\VStudio Projects\Task055_Transposition\obj\Debug\net6.0\Task055_Transposition.AssemblyInfo.cs
+C:\Users\alexv\VStudio Projects\Task055_Transposition\obj\Debug\net6.0\Task055_Transposition.csproj.CoreCompileInputs.cache
+C:\Users\alexv\VStudio Projects\Task055_Transposition\obj\Debug\net6.0\Task055_Transposition.dll
+C:\Users\alexv\VStudio Projects\Task055_Transposition\obj\Debug\net6.0\refint\Task055_Transposition.dll
+C:\Users\alexv\VStudio Projects\Task055_Transposition\obj\Debug\net6.0\Task055_Transposition.pdb
+C:\Users\alexv\VStudio Projects\Task055_Transposition\obj\Debug\net6.0\Task055_Transposition.genruntimeconfig.cache
+C:\Users\alexv\VStudio Projects\Task055_Transposition\obj\Debug\net6.0\ref\Task055_Transposition.dll

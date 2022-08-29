@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task053_SwapFirstLast/1.0.0": {
+        "runtime": {
+          "Task053_SwapFirstLast.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task053_SwapFirstLast/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\alexv\VStudio Projects\Task051_SumDiagonal\obj\Debug\net6.0\Task051_SumDiagonal.csproj.AssemblyReference.cache
+C:\Users\alexv\VStudio Projects\Task051_SumDiagonal\obj\Debug\net6.0\Task051_SumDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexv\VStudio Projects\Task051_SumDiagonal\obj\Debug\net6.0\Task051_SumDiagonal.AssemblyInfoInputs.cache
+C:\Users\alexv\VStudio Projects\Task051_SumDiagonal\obj\Debug\net6.0\Task051_SumDiagonal.AssemblyInfo.cs
+C:\Users\alexv\VStudio Projects\Task051_SumDiagonal\obj\Debug\net6.0\Task051_SumDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\alexv\VStudio Projects\Task051_SumDiagonal\bin\Debug\net6.0\Task051_SumDiagonal.exe
+C:\Users\alexv\VStudio Projects\Task051_SumDiagonal\bin\Debug\net6.0\Task051_SumDiagonal.deps.json
+C:\Users\alexv\VStudio Projects\Task051_SumDiagonal\bin\Debug\net6.0\Task051_SumDiagonal.runtimeconfig.json
+C:\Users\alexv\VStudio Projects\Task051_SumDiagonal\bin\Debug\net6.0\Task051_SumDiagonal.dll
+C:\Users\alexv\VStudio Projects\Task051_SumDiagonal\bin\Debug\net6.0\Task051_SumDiagonal.pdb
+C:\Users\alexv\VStudio Projects\Task051_SumDiagonal\obj\Debug\net6.0\Task051_SumDiagonal.dll
+C:\Users\alexv\VStudio Projects\Task051_SumDiagonal\obj\Debug\net6.0\refint\Task051_SumDiagonal.dll
+C:\Users\alexv\VStudio Projects\Task051_SumDiagonal\obj\Debug\net6.0\Task051_SumDiagonal.pdb
+C:\Users\alexv\VStudio Projects\Task051_SumDiagonal\obj\Debug\net6.0\Task051_SumDiagonal.genruntimeconfig.cache
+C:\Users\alexv\VStudio Projects\Task051_SumDiagonal\obj\Debug\net6.0\ref\Task051_SumDiagonal.dll

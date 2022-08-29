@@ -1,0 +1,15 @@
+C:\Users\alexv\VStudio Projects\Task053_SwapFirstLast\obj\Debug\net6.0\Task053_SwapFirstLast.csproj.AssemblyReference.cache
+C:\Users\alexv\VStudio Projects\Task053_SwapFirstLast\obj\Debug\net6.0\Task053_SwapFirstLast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexv\VStudio Projects\Task053_SwapFirstLast\obj\Debug\net6.0\Task053_SwapFirstLast.AssemblyInfoInputs.cache
+C:\Users\alexv\VStudio Projects\Task053_SwapFirstLast\obj\Debug\net6.0\Task053_SwapFirstLast.AssemblyInfo.cs
+C:\Users\alexv\VStudio Projects\Task053_SwapFirstLast\obj\Debug\net6.0\Task053_SwapFirstLast.csproj.CoreCompileInputs.cache
+C:\Users\alexv\VStudio Projects\Task053_SwapFirstLast\bin\Debug\net6.0\Task053_SwapFirstLast.exe
+C:\Users\alexv\VStudio Projects\Task053_SwapFirstLast\bin\Debug\net6.0\Task053_SwapFirstLast.deps.json
+C:\Users\alexv\VStudio Projects\Task053_SwapFirstLast\bin\Debug\net6.0\Task053_SwapFirstLast.runtimeconfig.json
+C:\Users\alexv\VStudio Projects\Task053_SwapFirstLast\bin\Debug\net6.0\Task053_SwapFirstLast.dll
+C:\Users\alexv\VStudio Projects\Task053_SwapFirstLast\bin\Debug\net6.0\Task053_SwapFirstLast.pdb
+C:\Users\alexv\VStudio Projects\Task053_SwapFirstLast\obj\Debug\net6.0\Task053_SwapFirstLast.dll
+C:\Users\alexv\VStudio Projects\Task053_SwapFirstLast\obj\Debug\net6.0\refint\Task053_SwapFirstLast.dll
+C:\Users\alexv\VStudio Projects\Task053_SwapFirstLast\obj\Debug\net6.0\Task053_SwapFirstLast.pdb
+C:\Users\alexv\VStudio Projects\Task053_SwapFirstLast\obj\Debug\net6.0\Task053_SwapFirstLast.genruntimeconfig.cache
+C:\Users\alexv\VStudio Projects\Task053_SwapFirstLast\obj\Debug\net6.0\ref\Task053_SwapFirstLast.dll
